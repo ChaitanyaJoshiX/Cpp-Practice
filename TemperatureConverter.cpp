@@ -2,6 +2,7 @@
 This program converts Celsius to Fahrenheit and vice versa.
 Takes value as input.
 Displays result by calling the appropriate function.
+Author : @ChaitanyaJoshiX
 */
 
 #include <iostream>
