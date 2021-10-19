@@ -1,6 +1,6 @@
 /*
 This calculator asks for two numbers as input.
-The following functions can be performed with the above:
+The following functions can be performed with the numbers:
 1. Addition
 2. Subtraction
 3. Multiplication
