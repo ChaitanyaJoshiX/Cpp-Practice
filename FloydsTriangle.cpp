@@ -1,6 +1,5 @@
 /*
 Display Floyd's Traingle till n terms:
-
 1
 2 3
 4 5 6
