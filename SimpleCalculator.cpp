@@ -1,6 +1,6 @@
 /*
 This calculator asks for two numbers as input.
-The following functions can be performed with the numbers:
+The following functions can be performed with the above:
 1. Addition
 2. Subtraction
 3. Multiplication
@@ -8,7 +8,6 @@ The following functions can be performed with the numbers:
 6. Percentage
 GitHub : @ChaitanyaJoshiX
 */
-
 #include <iostream>
 using namespace std;
 
