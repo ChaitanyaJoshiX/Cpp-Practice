@@ -1,9 +1,9 @@
 #include <iostream>
 #include <string.h>
 #include <cstdlib>
-
 using namespace std;
- main()
+
+main()
 {
     string name;
     cout << "Enter your full name : ";
