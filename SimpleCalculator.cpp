@@ -8,6 +8,7 @@ The following functions can be performed with the above:
 6. Percentage
 GitHub : @ChaitanyaJoshiX
 */
+
 #include <iostream>
 using namespace std;
 
