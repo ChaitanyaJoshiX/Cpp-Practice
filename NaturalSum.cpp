@@ -1,6 +1,6 @@
 /*
 WAP to print first n Natural numbers and their sum.
-Take n as input.
+Take n as an input.
 */
 #include <iostream>
 using namespace std;
